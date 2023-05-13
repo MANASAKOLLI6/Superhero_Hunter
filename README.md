@@ -13,3 +13,7 @@
 * You can un favourite a hero too from suggestions
 * You can navigate to your Favourite heros page from by clicking on the favourite heros link on the top right corner of the home page
 * You can view a list of your favourite super heros in the favourites page and can remove a super hero from this list by selecting the respective option
+![alttext](ss.png)
+![alttext](ss2.png)
+![alttext](ss3.png)
+![alttext](ss4.png)
